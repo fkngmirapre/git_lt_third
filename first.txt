@@ -3,3 +3,4 @@ one
 second
 third
 git rm
+git diff
